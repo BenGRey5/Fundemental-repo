@@ -18,3 +18,5 @@ Ticket.propTypes = {
 };
 
 export default Ticket;
+
+git remote set-url origin https://new.url.here
